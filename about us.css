@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root{
+    --bgColor:rgb(241, 175, 175);
+}
+body{
+
+    scroll-behavior: smooth; 
+    height: 150vh;
+   
+}
+.row{
+    background-color: var(--bgColor);
+}
+#carousel{
+    height: auto;
+}
+
+
+img{
+    height: 700px;
+}
+/*.text{
+    background-color: rgb(119, 51, 51);
+    border-radius: 20px;
+    color: antiquewhite;
+    margin: 20px;
+}*/
+.header{
+    margin-top: 40px;
+}
